@@ -1,3 +1,5 @@
+package Chapter_7;
+
 public class Factors {
 
     public static boolean areFactors(int[] list, int n) {

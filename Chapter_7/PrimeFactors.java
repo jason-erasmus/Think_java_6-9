@@ -1,3 +1,5 @@
+package Chapter_7;
+
 public class PrimeFactors {
 
     public static boolean arePrimeFactors(int[] array, int n) {

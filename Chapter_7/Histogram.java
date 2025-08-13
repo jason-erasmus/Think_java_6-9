@@ -1,3 +1,5 @@
+package Chapter_7;
+
 public class Histogram {
 
     public static int[] letterHist(String input) {

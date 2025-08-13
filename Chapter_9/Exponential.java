@@ -1,3 +1,5 @@
+package Chapter_9;
+
 public class Exponential {
 
     public static void factorial(int n) {
