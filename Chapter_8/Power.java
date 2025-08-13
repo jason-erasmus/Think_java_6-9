@@ -1,3 +1,5 @@
+package Chapter_8;
+
 public class Power {
 
     public static double power(double x, int n) {

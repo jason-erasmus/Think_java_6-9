@@ -1,3 +1,5 @@
+package Chapter_8;
+
 public class OddSum {
 
     public static int oddSum(int n) {
